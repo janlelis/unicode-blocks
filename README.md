@@ -2,7 +2,7 @@
 
 Each unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks asociated with the given string.
 
-Unicode version: **8.0.0**
+Unicode version: **9.0.0**
 
 Supported Rubies: **2.3**, **2.2**, **2.1**
 
@@ -115,6 +115,7 @@ Sundanese
 Batak
 Lepcha
 Ol Chiki
+Cyrillic Extended-C
 Sundanese Supplement
 Vedic Extensions
 Phonetic Extensions
@@ -231,6 +232,7 @@ Old Persian
 Deseret
 Shavian
 Osmanya
+Osage
 Elbasan
 Caucasian Albanian
 Linear A
@@ -265,13 +267,17 @@ Khojki
 Multani
 Khudawadi
 Grantha
+Newa
 Tirhuta
 Siddham
 Modi
+Mongolian Supplement
 Takri
 Ahom
 Warang Citi
 Pau Cin Hau
+Bhaiksuki
+Marchen
 Cuneiform
 Cuneiform Numbers and Punctuation
 Early Dynastic Cuneiform
@@ -282,6 +288,9 @@ Mro
 Bassa Vah
 Pahawh Hmong
 Miao
+Ideographic Symbols and Punctuation
+Tangut
+Tangut Components
 Kana Supplement
 Duployan
 Shorthand Format Controls
@@ -292,7 +301,9 @@ Tai Xuan Jing Symbols
 Counting Rod Numerals
 Mathematical Alphanumeric Symbols
 Sutton SignWriting
+Glagolitic Supplement
 Mende Kikakui
+Adlam
 Arabic Mathematical Alphabetic Symbols
 Mahjong Tiles
 Domino Tiles

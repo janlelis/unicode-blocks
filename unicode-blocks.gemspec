@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.name          = "unicode-blocks"
   gem.version       = Unicode::Blocks::VERSION
   gem.summary       = "Return Unicode blocks of a string."
-  gem.description   = "[Unicode version: #{Unicode::Blocks::UNICODE_VERSION}] Determine to which Unicode block characters belong to."
+  gem.description   = "[Unicode #{Unicode::Blocks::UNICODE_VERSION}] Which Unicode block does a character belong to?"
   gem.authors       = ["Jan Lelis"]
   gem.email         = ["mail@janlelis.de"]
   gem.homepage      = "https://github.com/janlelis/unicode-blocks"
