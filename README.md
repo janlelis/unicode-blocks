@@ -2,9 +2,9 @@
 
 Each unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks asociated with the given string.
 
-Unicode version: **9.0.0**
+Unicode version: **10.0.0**
 
-Supported Rubies: **2.3**, **2.2**, **2.1**
+Supported Rubies: **2.4**, **2.3**, **2.2**, **2.1**
 
 ## Gemfile
 
@@ -73,6 +73,7 @@ Thaana
 NKo
 Samaritan
 Mandaic
+Syriac Supplement
 Arabic Extended-A
 Devanagari
 Bengali
@@ -275,9 +276,12 @@ Mongolian Supplement
 Takri
 Ahom
 Warang Citi
+Zanabazar Square
+Soyombo
 Pau Cin Hau
 Bhaiksuki
 Marchen
+Masaram Gondi
 Cuneiform
 Cuneiform Numbers and Punctuation
 Early Dynastic Cuneiform
@@ -292,6 +296,8 @@ Ideographic Symbols and Punctuation
 Tangut
 Tangut Components
 Kana Supplement
+Kana Extended-A
+Nushu
 Duployan
 Shorthand Format Controls
 Byzantine Musical Symbols
@@ -322,6 +328,7 @@ CJK Unified Ideographs Extension B
 CJK Unified Ideographs Extension C
 CJK Unified Ideographs Extension D
 CJK Unified Ideographs Extension E
+CJK Unified Ideographs Extension F
 CJK Compatibility Ideographs Supplement
 Tags
 Variation Selectors Supplement
