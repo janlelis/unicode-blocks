@@ -1,6 +1,6 @@
 ## CHANGELOG
 
-### Next
+### 1.3.0
 
 * Unicode 11
 * Do not depend on rubygems (only use zlib stdlib for unzipping)
