@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+### Next
+
+* Unicode 11
+
 ### 1.2.2
 
 * Explicitly load rubygems/util, fixes regression in 1.2.1

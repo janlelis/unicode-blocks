@@ -2,7 +2,7 @@
 
 Each unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks asociated with the given string.
 
-Unicode version: **10.0.0**
+Unicode version: **11.0.0**
 
 Supported Rubies: **2.5**, **2.4**, **2.3**
 
@@ -119,6 +119,7 @@ Batak
 Lepcha
 Ol Chiki
 Cyrillic Extended-C
+Georgian Extended
 Sundanese Supplement
 Vedic Extensions
 Phonetic Extensions
@@ -258,7 +259,10 @@ Inscriptional Pahlavi
 Psalter Pahlavi
 Old Turkic
 Old Hungarian
+Hanifi Rohingya
 Rumi Numeral Symbols
+Old Sogdian
+Sogdian
 Brahmi
 Kaithi
 Sora Sompeng
@@ -277,6 +281,7 @@ Modi
 Mongolian Supplement
 Takri
 Ahom
+Dogra
 Warang Citi
 Zanabazar Square
 Soyombo
@@ -284,6 +289,8 @@ Pau Cin Hau
 Bhaiksuki
 Marchen
 Masaram Gondi
+Gunjala Gondi
+Makasar
 Cuneiform
 Cuneiform Numbers and Punctuation
 Early Dynastic Cuneiform
@@ -293,6 +300,7 @@ Bamum Supplement
 Mro
 Bassa Vah
 Pahawh Hmong
+Medefaidrin
 Miao
 Ideographic Symbols and Punctuation
 Tangut
@@ -305,6 +313,7 @@ Shorthand Format Controls
 Byzantine Musical Symbols
 Musical Symbols
 Ancient Greek Musical Notation
+Mayan Numerals
 Tai Xuan Jing Symbols
 Counting Rod Numerals
 Mathematical Alphanumeric Symbols
@@ -312,6 +321,7 @@ Sutton SignWriting
 Glagolitic Supplement
 Mende Kikakui
 Adlam
+Indic Siyaq Numbers
 Arabic Mathematical Alphabetic Symbols
 Mahjong Tiles
 Domino Tiles
@@ -326,6 +336,7 @@ Alchemical Symbols
 Geometric Shapes Extended
 Supplemental Arrows-C
 Supplemental Symbols and Pictographs
+Chess Symbols
 CJK Unified Ideographs Extension B
 CJK Unified Ideographs Extension C
 CJK Unified Ideographs Extension D
@@ -342,5 +353,5 @@ See [unicode-x](https://github.com/janlelis/unicode-x) for more Unicode related 
 
 ## MIT License
 
-- Copyright (C) 2016 Jan Lelis <http://janlelis.com>. Released under the MIT license.
+- Copyright (C) 2016-2018 Jan Lelis <http://janlelis.com>. Released under the MIT license.
 - Unicode data: http://www.unicode.org/copyright.html#Exhibit1
