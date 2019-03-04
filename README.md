@@ -1,6 +1,6 @@
-# Unicode::Blocks [![[version]](https://badge.fury.io/rb/unicode-blocks.svg)](http://badge.fury.io/rb/unicode-blocks)  [![[travis]](https://travis-ci.org/janlelis/unicode-blocks.png)](https://travis-ci.org/janlelis/unicode-blocks)
+# Unicode::Blocks [![[version]](https://badge.fury.io/rb/unicode-blocks.svg)](https://badge.fury.io/rb/unicode-blocks)  [![[travis]](https://travis-ci.org/janlelis/unicode-blocks.png)](https://travis-ci.org/janlelis/unicode-blocks)
 
-Each unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks asociated with the given string.
+Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks asociated with the given string.
 
 Unicode version: **12.0.0**
 
@@ -263,6 +263,7 @@ Hanifi Rohingya
 Rumi Numeral Symbols
 Old Sogdian
 Sogdian
+Elymaic
 Brahmi
 Kaithi
 Sora Sompeng
@@ -283,6 +284,7 @@ Takri
 Ahom
 Dogra
 Warang Citi
+Nandinagari
 Zanabazar Square
 Soyombo
 Pau Cin Hau
@@ -291,10 +293,12 @@ Marchen
 Masaram Gondi
 Gunjala Gondi
 Makasar
+Tamil Supplement
 Cuneiform
 Cuneiform Numbers and Punctuation
 Early Dynastic Cuneiform
 Egyptian Hieroglyphs
+Egyptian Hieroglyph Format Controls
 Anatolian Hieroglyphs
 Bamum Supplement
 Mro
@@ -307,6 +311,7 @@ Tangut
 Tangut Components
 Kana Supplement
 Kana Extended-A
+Small Kana Extension
 Nushu
 Duployan
 Shorthand Format Controls
@@ -319,9 +324,12 @@ Counting Rod Numerals
 Mathematical Alphanumeric Symbols
 Sutton SignWriting
 Glagolitic Supplement
+Nyiakeng Puachue Hmong
+Wancho
 Mende Kikakui
 Adlam
 Indic Siyaq Numbers
+Ottoman Siyaq Numbers
 Arabic Mathematical Alphabetic Symbols
 Mahjong Tiles
 Domino Tiles
@@ -337,6 +345,7 @@ Geometric Shapes Extended
 Supplemental Arrows-C
 Supplemental Symbols and Pictographs
 Chess Symbols
+Symbols and Pictographs Extended-A
 CJK Unified Ideographs Extension B
 CJK Unified Ideographs Extension C
 CJK Unified Ideographs Extension D
