@@ -2,7 +2,7 @@
 
 Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks asociated with the given string.
 
-Unicode version: **12.0.0**
+Unicode version: **12.0.0** (March 2019)
 
 Supported Rubies: **2.6**, **2.5**, **2.4**
 
