@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+## 1.5.0 (unreleased)
+
+* Unicode 12.1
+
 ### 1.4.0
 
 * Unicode 12
