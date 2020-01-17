@@ -4,9 +4,9 @@ Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicod
 
 Unicode version: **12.1.0** (May 2019)
 
-Supported Rubies: **2.6**, **2.5**, **2.4**
+Supported Rubies: **2.7**, **2.6**, **2.5**, **2.4**
 
-Old Rubies that might still work: **2.3**, **2.2**, **2.1**, **2.0**
+Old Rubies which might still work: **2.3**, **2.2**, **2.1**, **2.0**
 
 ## Gemfile
 
@@ -40,7 +40,7 @@ The list of blocks is always sorted alphabetically.
 
 ### Regex Matching
 
-If you have a string and want to match a substring/character from a specific Unicode block, you actually won't need this gem. Instead, you can use the [Regexp Unicode Property Syntax `\p{}`](http://ruby-doc.org/core/Regexp.html#class-Regexp-label-Character+Properties) with blocks by prefixing the block name with "In":
+If you have a string and want to match a substring/character from a specific Unicode block, you actually won't need this gem. Instead, you can use the [Regexp Unicode Property Syntax `\p{}`](https://ruby-doc.org/core/Regexp.html#class-Regexp-label-Character+Properties) with blocks by prefixing the block name with "In":
 
 ```ruby
 "⧉⪥⟤".scan(/\p{In Miscellaneous Mathematical Symbols-B}/) # => ["⧉"]
