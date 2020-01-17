@@ -6,9 +6,9 @@ Gem::Specification.new do |gem|
   gem.name          = "unicode-blocks"
   gem.version       = Unicode::Blocks::VERSION
   gem.summary       = "Return Unicode blocks of a string."
-  gem.description   = "[Unicode #{Unicode::Blocks::UNICODE_VERSION}] Which Unicode block does a character belong to?"
+  gem.description   = "[Unicode #{Unicode::Blocks::UNICODE_VERSION}] Answers the question: Which Unicode block does a code point belong to?"
   gem.authors       = ["Jan Lelis"]
-  gem.email         = ["mail@janlelis.de"]
+  gem.email         = ["hi@ruby.consulting"]
   gem.homepage      = "https://github.com/janlelis/unicode-blocks"
   gem.license       = "MIT"
 
@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.required_ruby_version = "~> 2.0"
+  gem.required_ruby_version = ">= 2.0"
 end
