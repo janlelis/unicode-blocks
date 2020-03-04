@@ -263,8 +263,10 @@ Old Turkic
 Old Hungarian
 Hanifi Rohingya
 Rumi Numeral Symbols
+Yezidi
 Old Sogdian
 Sogdian
+Chorasmian
 Elymaic
 Brahmi
 Kaithi
@@ -286,6 +288,7 @@ Takri
 Ahom
 Dogra
 Warang Citi
+Dives Akuru
 Nandinagari
 Zanabazar Square
 Soyombo
@@ -295,6 +298,7 @@ Marchen
 Masaram Gondi
 Gunjala Gondi
 Makasar
+Lisu Supplement
 Tamil Supplement
 Cuneiform
 Cuneiform Numbers and Punctuation
@@ -311,6 +315,8 @@ Miao
 Ideographic Symbols and Punctuation
 Tangut
 Tangut Components
+Khitan Small Script
+Tangut Supplement
 Kana Supplement
 Kana Extended-A
 Small Kana Extension
@@ -348,12 +354,14 @@ Supplemental Arrows-C
 Supplemental Symbols and Pictographs
 Chess Symbols
 Symbols and Pictographs Extended-A
+Symbols for Legacy Computing
 CJK Unified Ideographs Extension B
 CJK Unified Ideographs Extension C
 CJK Unified Ideographs Extension D
 CJK Unified Ideographs Extension E
 CJK Unified Ideographs Extension F
 CJK Compatibility Ideographs Supplement
+CJK Unified Ideographs Extension G
 Tags
 Variation Selectors Supplement
 Supplementary Private Use Area-A
