@@ -1,6 +1,6 @@
 # Unicode::Blocks [![[version]](https://badge.fury.io/rb/unicode-blocks.svg)](https://badge.fury.io/rb/unicode-blocks)  [![[travis]](https://travis-ci.org/janlelis/unicode-blocks.png)](https://travis-ci.org/janlelis/unicode-blocks)
 
-Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks asociated with the given string.
+Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks associated with the given string.
 
 Unicode version: **12.1.0** (May 2019)
 
@@ -365,4 +365,4 @@ See [unicode-x](https://github.com/janlelis/unicode-x) for more Unicode related 
 ## MIT License
 
 - Copyright (C) 2016-2020 Jan Lelis <https://janlelis.com>. Released under the MIT license.
-- Unicode data: http://www.unicode.org/copyright.html#Exhibit1
+- Unicode data: https://www.unicode.org/copyright.html#Exhibit1
