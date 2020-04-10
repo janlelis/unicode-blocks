@@ -4,9 +4,9 @@ Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicod
 
 Unicode version: **13.0.0** (March 2020)
 
-Supported Rubies: **2.7**, **2.6**, **2.5**, **2.4**
+Supported Rubies: **2.7**, **2.6**, **2.5**
 
-Old Rubies which might still work: **2.3**, **2.2**, **2.1**, **2.0**
+Old Rubies which might still work: **2.4**, **2.3**, **2.2**, **2.1**, **2.0**
 
 ## Gemfile
 
