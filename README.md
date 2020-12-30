@@ -1,4 +1,4 @@
-# Unicode::Blocks [![[version]](https://badge.fury.io/rb/unicode-blocks.svg)](https://badge.fury.io/rb/unicode-blocks)  [![[travis]](https://travis-ci.org/janlelis/unicode-blocks.png)](https://travis-ci.org/janlelis/unicode-blocks)
+# Unicode::Blocks [![[version]](https://badge.fury.io/rb/unicode-blocks.svg)](https://badge.fury.io/rb/unicode-blocks)  [![[ci]](https://github.com/janlelis/unicode-blocks/workflows/Test/badge.svg)](https://github.com/janlelis/unicode-blocks/actions?query=workflow%3ATest)
 
 Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks associated with the given string.
 

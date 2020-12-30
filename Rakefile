@@ -32,6 +32,10 @@ end
 
 desc "#{gemspec.name} | Spec"
 task :spec do
-  sh "for file in spec/*.rb; do ruby $file; done"
+  if RbConfig::CONFIG['host_os'] =~ /mswin|mingw/
+    sh "for %f in (spec/\*.rb) do ruby spec/%f"
+  else
+    sh "for file in spec/*.rb; do ruby $file; done"
+  end
 end
 task default: :spec
