@@ -78,6 +78,7 @@ NKo
 Samaritan
 Mandaic
 Syriac Supplement
+Arabic Extended-B
 Arabic Extended-A
 Devanagari
 Bengali
@@ -241,7 +242,9 @@ Osmanya
 Osage
 Elbasan
 Caucasian Albanian
+Vithkuqi
 Linear A
+Latin Extended-F
 Cypriot Syllabary
 Imperial Aramaic
 Palmyrene
@@ -266,6 +269,7 @@ Rumi Numeral Symbols
 Yezidi
 Old Sogdian
 Sogdian
+Old Uyghur
 Chorasmian
 Elymaic
 Brahmi
@@ -292,6 +296,7 @@ Dives Akuru
 Nandinagari
 Zanabazar Square
 Soyombo
+Unified Canadian Aboriginal Syllabics Extended-A
 Pau Cin Hau
 Bhaiksuki
 Marchen
@@ -303,11 +308,13 @@ Tamil Supplement
 Cuneiform
 Cuneiform Numbers and Punctuation
 Early Dynastic Cuneiform
+Cypro-Minoan
 Egyptian Hieroglyphs
 Egyptian Hieroglyph Format Controls
 Anatolian Hieroglyphs
 Bamum Supplement
 Mro
+Tangsa
 Bassa Vah
 Pahawh Hmong
 Medefaidrin
@@ -317,12 +324,14 @@ Tangut
 Tangut Components
 Khitan Small Script
 Tangut Supplement
+Kana Extended-B
 Kana Supplement
 Kana Extended-A
 Small Kana Extension
 Nushu
 Duployan
 Shorthand Format Controls
+Znamenny Musical Notation
 Byzantine Musical Symbols
 Musical Symbols
 Ancient Greek Musical Notation
@@ -331,9 +340,12 @@ Tai Xuan Jing Symbols
 Counting Rod Numerals
 Mathematical Alphanumeric Symbols
 Sutton SignWriting
+Latin Extended-G
 Glagolitic Supplement
 Nyiakeng Puachue Hmong
+Toto
 Wancho
+Ethiopic Extended-B
 Mende Kikakui
 Adlam
 Indic Siyaq Numbers
