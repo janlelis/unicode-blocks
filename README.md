@@ -267,6 +267,7 @@ Old Hungarian
 Hanifi Rohingya
 Rumi Numeral Symbols
 Yezidi
+Arabic Extended-C
 Old Sogdian
 Sogdian
 Old Uyghur
@@ -298,11 +299,13 @@ Zanabazar Square
 Soyombo
 Unified Canadian Aboriginal Syllabics Extended-A
 Pau Cin Hau
+Devanagari Extended-A
 Bhaiksuki
 Marchen
 Masaram Gondi
 Gunjala Gondi
 Makasar
+Kawi
 Lisu Supplement
 Tamil Supplement
 Cuneiform
@@ -335,6 +338,7 @@ Znamenny Musical Notation
 Byzantine Musical Symbols
 Musical Symbols
 Ancient Greek Musical Notation
+Kaktovik Numerals
 Mayan Numerals
 Tai Xuan Jing Symbols
 Counting Rod Numerals
@@ -342,9 +346,11 @@ Mathematical Alphanumeric Symbols
 Sutton SignWriting
 Latin Extended-G
 Glagolitic Supplement
+Cyrillic Extended-D
 Nyiakeng Puachue Hmong
 Toto
 Wancho
+Nag Mundari
 Ethiopic Extended-B
 Mende Kikakui
 Adlam
@@ -374,6 +380,7 @@ CJK Unified Ideographs Extension E
 CJK Unified Ideographs Extension F
 CJK Compatibility Ideographs Supplement
 CJK Unified Ideographs Extension G
+CJK Unified Ideographs Extension H
 Tags
 Variation Selectors Supplement
 Supplementary Private Use Area-A
