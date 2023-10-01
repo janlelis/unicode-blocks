@@ -378,6 +378,7 @@ CJK Unified Ideographs Extension C
 CJK Unified Ideographs Extension D
 CJK Unified Ideographs Extension E
 CJK Unified Ideographs Extension F
+CJK Unified Ideographs Extension I
 CJK Compatibility Ideographs Supplement
 CJK Unified Ideographs Extension G
 CJK Unified Ideographs Extension H
