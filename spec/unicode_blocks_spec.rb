@@ -17,7 +17,7 @@ describe Unicode::Blocks do
     end
 
     it "will call .block for every character" do
-      mocked_method = MiniTest::Mock.new
+      mocked_method = Minitest::Mock.new
       mocked_method.expect :call, "first block",  ["С"]
       mocked_method.expect :call, "second block", ["A"]
       Unicode::Blocks.stub :block, mocked_method do
