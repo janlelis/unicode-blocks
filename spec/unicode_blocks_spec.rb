@@ -7,8 +7,12 @@ describe Unicode::Blocks do
       assert_equal [], Unicode::Blocks.of("")
     end
 
-    it "will return all blocks that characters in the string belong to" do
-      assert_equal ["Basic Latin", "Cyrillic"], Unicode::Blocks.of("СC")
+    it "will return all unique blocks that characters in the string belong to" do
+      assert_equal ["Basic Latin", "Cyrillic"], Unicode::Blocks.of("СCСC")
+    end
+
+    it "will count how many characters belong to each matched block" do
+      assert_equal({"Basic Latin"=>2, "Cyrillic"=>2}, Unicode::Blocks.blocks_counted("СAСA"))
     end
 
     it "will return all blocks in sorted order" do
