@@ -243,6 +243,7 @@ Osage
 Elbasan
 Caucasian Albanian
 Vithkuqi
+Todhri
 Linear A
 Latin Extended-F
 Cypriot Syllabary
@@ -265,6 +266,7 @@ Psalter Pahlavi
 Old Turkic
 Old Hungarian
 Hanifi Rohingya
+Garay
 Rumi Numeral Symbols
 Yezidi
 Arabic Extended-C
@@ -284,12 +286,14 @@ Khojki
 Multani
 Khudawadi
 Grantha
+Tulu-Tigalari
 Newa
 Tirhuta
 Siddham
 Modi
 Mongolian Supplement
 Takri
+Myanmar Extended-C
 Ahom
 Dogra
 Warang Citi
@@ -300,6 +304,7 @@ Soyombo
 Unified Canadian Aboriginal Syllabics Extended-A
 Pau Cin Hau
 Devanagari Extended-A
+Sunuwar
 Bhaiksuki
 Marchen
 Masaram Gondi
@@ -314,12 +319,15 @@ Early Dynastic Cuneiform
 Cypro-Minoan
 Egyptian Hieroglyphs
 Egyptian Hieroglyph Format Controls
+Egyptian Hieroglyphs Extended-A
 Anatolian Hieroglyphs
+Gurung Khema
 Bamum Supplement
 Mro
 Tangsa
 Bassa Vah
 Pahawh Hmong
+Kirat Rai
 Medefaidrin
 Miao
 Ideographic Symbols and Punctuation
@@ -334,6 +342,7 @@ Small Kana Extension
 Nushu
 Duployan
 Shorthand Format Controls
+Symbols for Legacy Computing Supplement
 Znamenny Musical Notation
 Byzantine Musical Symbols
 Musical Symbols
@@ -351,6 +360,7 @@ Nyiakeng Puachue Hmong
 Toto
 Wancho
 Nag Mundari
+Ol Onal
 Ethiopic Extended-B
 Mende Kikakui
 Adlam
