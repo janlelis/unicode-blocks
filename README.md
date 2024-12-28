@@ -4,10 +4,6 @@ Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicod
 
 Unicode version: **16.0.0** (September 2024)
 
-Supported Rubies: **3.3**, **3.2**, **3.1**, **3.0**
-
-Old Rubies which might still work: **2.7**, **2.6**, **2.5**, **2.4**, **2.3**, **2.X**
-
 ## Gemfile
 
 ```ruby
