@@ -249,6 +249,7 @@ Nabataean
 Hatran
 Phoenician
 Lydian
+Sidetic
 Meroitic Hieroglyphs
 Meroitic Cursive
 Kharoshthi
@@ -300,11 +301,13 @@ Soyombo
 Unified Canadian Aboriginal Syllabics Extended-A
 Pau Cin Hau
 Devanagari Extended-A
+Sharada Supplement
 Sunuwar
 Bhaiksuki
 Marchen
 Masaram Gondi
 Gunjala Gondi
+Tolong Siki
 Makasar
 Kawi
 Lisu Supplement
@@ -325,12 +328,14 @@ Bassa Vah
 Pahawh Hmong
 Kirat Rai
 Medefaidrin
+Beria Erfe
 Miao
 Ideographic Symbols and Punctuation
 Tangut
 Tangut Components
 Khitan Small Script
 Tangut Supplement
+Tangut Components Supplement
 Kana Extended-B
 Kana Supplement
 Kana Extended-A
@@ -339,6 +344,7 @@ Nushu
 Duployan
 Shorthand Format Controls
 Symbols for Legacy Computing Supplement
+Miscellaneous Symbols Supplement
 Znamenny Musical Notation
 Byzantine Musical Symbols
 Musical Symbols
@@ -357,6 +363,7 @@ Toto
 Wancho
 Nag Mundari
 Ol Onal
+Tai Yo
 Ethiopic Extended-B
 Mende Kikakui
 Adlam
@@ -388,13 +395,14 @@ CJK Unified Ideographs Extension I
 CJK Compatibility Ideographs Supplement
 CJK Unified Ideographs Extension G
 CJK Unified Ideographs Extension H
+CJK Unified Ideographs Extension J
 Tags
 Variation Selectors Supplement
 Supplementary Private Use Area-A
 Supplementary Private Use Area-B
 ```
 
-See [unicode-x](https://github.com/janlelis/unicode-x) for more Unicode related micro libraries.
+See [unicode-x](https://github.com/janlelis/unicode-x) for more Unicode related micro libraries and [unicode-block.js](https://www.npmjs.com/package/unicode-block) for a JavaScript version of this library.
 
 ## MIT License
 
