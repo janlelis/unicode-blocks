@@ -2,7 +2,7 @@
 
 Each Unicode character belongs to a [block](https://en.wikipedia.org/wiki/Unicode_block). This gem returns the all blocks associated with the given string.
 
-Unicode version: **16.0.0** (September 2024)
+Unicode version: **17.0.0** (September 2025)
 
 ## Gemfile
 
