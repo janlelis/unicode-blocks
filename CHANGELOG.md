@@ -3,6 +3,7 @@
 ### 1.11.0 (unreleased)
 
 - Unicode 17.0
+- (Raw block data is now found at INDEX[:BLOCKS] instead of just INDEX)
 
 ### 1.10.0
 

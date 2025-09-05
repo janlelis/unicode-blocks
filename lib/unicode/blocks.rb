@@ -15,13 +15,13 @@ module Unicode
     def self.block(char)
       require_relative 'blocks/index' unless defined? ::Unicode::Blocks::INDEX
       codepoint = char.unpack("U")[0] or raise(ArgumentError, "Unicode::Blocks.block must be given a valid char")
-      block_info = INDEX.bsearch{ |block_info| codepoint <= block_info[1] }
+      block_info = INDEX[:BLOCKS].bsearch{ |block_info| codepoint <= block_info[1] }
       codepoint >= block_info[0] ? block_info[2] : "No_Block"
     end
 
     def self.names
       require_relative 'blocks/index' unless defined? ::Unicode::Blocks::INDEX
-      INDEX.map(&:last)
+      INDEX[:BLOCKS].map(&:last)
     end
   end
 end
