@@ -1,9 +1,9 @@
 ## CHANGELOG
 
-### 1.11.0 (unreleased)
+### 1.11.0
 
 - Unicode 17.0
-- (Raw block data is now found at INDEX[:BLOCKS] instead of just INDEX)
+- Raw block data is now found at INDEX[:BLOCKS] instead of just INDEX
 
 ### 1.10.0
 
