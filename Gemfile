@@ -4,4 +4,6 @@ gemspec
 
 gem 'minitest'
 gem 'rake'
-gem 'irb' unless RUBY_ENGINE == "jruby"
+gem 'ostruct'
+gem 'tsort'
+gem 'irb'
