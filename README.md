@@ -308,6 +308,7 @@ Marchen
 Masaram Gondi
 Gunjala Gondi
 Tolong Siki
+Bengali Supplement
 Makasar
 Kawi
 Lisu Supplement
@@ -315,6 +316,7 @@ Tamil Supplement
 Cuneiform
 Cuneiform Numbers and Punctuation
 Early Dynastic Cuneiform
+Archaic Cuneiform Numerals
 Cypro-Minoan
 Egyptian Hieroglyphs
 Egyptian Hieroglyph Format Controls
@@ -336,6 +338,8 @@ Tangut Components
 Khitan Small Script
 Tangut Supplement
 Tangut Components Supplement
+Jurchen
+Jurchen Radicals
 Kana Extended-B
 Kana Supplement
 Kana Extended-A
@@ -349,12 +353,14 @@ Znamenny Musical Notation
 Byzantine Musical Symbols
 Musical Symbols
 Ancient Greek Musical Notation
+Musical Symbols Supplement
 Kaktovik Numerals
 Mayan Numerals
 Tai Xuan Jing Symbols
 Counting Rod Numerals
 Mathematical Alphanumeric Symbols
 Sutton SignWriting
+Miscellaneous Symbols and Arrows Extended
 Latin Extended-G
 Glagolitic Supplement
 Cyrillic Extended-D
@@ -396,6 +402,7 @@ CJK Compatibility Ideographs Supplement
 CJK Unified Ideographs Extension G
 CJK Unified Ideographs Extension H
 CJK Unified Ideographs Extension J
+Seal
 Tags
 Variation Selectors Supplement
 Supplementary Private Use Area-A
