@@ -1,4 +1,5 @@
 require_relative "../lib/unicode/blocks"
+require "minitest/mock"
 require "minitest/autorun"
 
 describe Unicode::Blocks do
